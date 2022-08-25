@@ -1,7 +1,9 @@
 # Modbus Simulator
 ---
 
-* Support protocols:
+* TODO: add ability to load configuration from file
+
+* Supported protocols:
 ```
 Modbus RTU
 Modbus TCP
